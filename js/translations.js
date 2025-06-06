@@ -7,24 +7,24 @@ const translations = {
         navGallery: "Galería",
         navContact: "Contacto",
         // Hero
-        heroTitle: "Monte Dorado",
+        heroTitle: "Oro Azteca",
         heroSubtitle: "Café Mexicano de Altura. Orgánico. Auténtico.",
         heroCta: "Descubre Nuestro Café",
         // About
         aboutTitle: "Nuestro Origen",
-        aboutSubtitle: "Cultivado en las alturas de Chiapas",
-        aboutText1: "En las montañas de Chiapas, a 1400 metros sobre el nivel del mar, nace Monte Dorado. Nuestro café es cultivado con pasión y respeto por la tierra, siguiendo prácticas orgánicas que preservan el ecosistema local.",
-        aboutText2: "Cada grano es seleccionado a mano, asegurando la más alta calidad y un sabor excepcional que refleja la riqueza de nuestra tierra.",
+        aboutSubtitle: "Variedad 100% Mexicana",
+        aboutText1: "Creada en 1996 por el INIFAP en Chiapas, Oro Azteca es una variedad de café única, resultado del cruce entre Híbrido de Timor 832/1 con Caturra. Nacida como respuesta a los desafíos de la roya, esta variedad combina lo mejor de la genética del café con la riqueza de nuestras tierras mexicanas.",
+        aboutText2: "Cultivada entre 800 y 1,400 metros sobre el nivel del mar en las montañas de Chiapas, cada grano de Oro Azteca es seleccionado a mano, asegurando la más alta calidad y un perfil de sabor excepcional con notas distintivas de caramelo y chocolate que deleitarán tu paladar.",
         // Benefits
         benefitsTitle: "Beneficios Exclusivos",
-        benefit1Title: "100% Orgánico",
-        benefit1Desc: "Cultivado sin pesticidas ni químicos dañinos.",
-        benefit2Title: "Alta Altura",
-        benefit2Desc: "Cultivado a 1400 metros para un sabor excepcional.",
-        benefit3Title: "Comercio Justo",
-        benefit3Desc: "Apoyamos a las comunidades locales de productores.",
-        benefit4Title: "Tradición",
-        benefit4Desc: "Técnicas ancestrales de cultivo y tostado.",
+        benefit1Title: "Resistente a la Roya",
+        benefit1Desc: "Variedad desarrollada para resistir el hongo de la roya, asegurando cultivos más saludables.",
+        benefit2Title: "100% Mexicano",
+        benefit2Desc: "Desarrollada por el INIFAP en Chiapas, es una variedad orgullosamente mexicana.",
+        benefit3Title: "Alta Calidad",
+        benefit3Desc: "Perfil de taza excepcional con notas a caramelo y chocolate.",
+        benefit4Title: "Alto Rendimiento",
+        benefit4Desc: "Produce entre 32-45 quintales por hectárea en altitudes de 800-1400 msnm.",
         // Gallery
         galleryTitle: "Galería",
         // Contact
@@ -38,7 +38,7 @@ const translations = {
         footerTagline: "Café mexicano de altura, cultivado con pasión en las montañas de Chiapas.",
         contactTitleFooter: "Contacto",
         followTitle: "Síguenos",
-        copyright: "© 2025 Monte Dorado. Todos los derechos reservados.",
+        copyright: "© 2025 Oro Azteca. Todos los derechos reservados.",
         // Messages
         formSuccess: "¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.",
         formError: "Por favor completa todos los campos requeridos."
@@ -51,24 +51,24 @@ const translations = {
         navGallery: "Gallery",
         navContact: "Contact",
         // Hero
-        heroTitle: "Monte Dorado",
+        heroTitle: "Oro Azteca",
         heroSubtitle: "Mexican High-Altitude Coffee. Organic. Authentic.",
         heroCta: "Discover Our Coffee",
         // About
         aboutTitle: "Our Origin",
-        aboutSubtitle: "Grown in the Highlands of Chiapas",
-        aboutText1: "In the mountains of Chiapas, 1400 meters above sea level, Monte Dorado is born. Our coffee is grown with passion and respect for the land, following organic practices that preserve the local ecosystem.",
-        aboutText2: "Each bean is hand-selected, ensuring the highest quality and exceptional flavor that reflects the richness of our land.",
+        aboutSubtitle: "100% Mexican Variety",
+        aboutText1: "Created in 1996 by INIFAP in Chiapas, Oro Azteca is a unique coffee variety, the result of crossing Timor Hybrid 832/1 with Caturra. Born in response to the challenges of coffee leaf rust, this variety combines the best of coffee genetics with the richness of our Mexican lands.",
+        aboutText2: "Cultivated between 800 and 1,400 meters above sea level in the mountains of Chiapas, each Oro Azteca bean is hand-selected, ensuring the highest quality and an exceptional flavor profile with distinctive notes of caramel and chocolate that will delight your palate.",
         // Benefits
         benefitsTitle: "Exclusive Benefits",
-        benefit1Title: "100% Organic",
-        benefit1Desc: "Grown without harmful pesticides or chemicals.",
-        benefit2Title: "High Altitude",
-        benefit2Desc: "Grown at 1400 meters for exceptional flavor.",
-        benefit3Title: "Fair Trade",
-        benefit3Desc: "Supporting local producer communities.",
-        benefit4Title: "Tradition",
-        benefit4Desc: "Ancient growing and roasting techniques.",
+        benefit1Title: "Rust Resistant",
+        benefit1Desc: "Variety developed to resist coffee leaf rust, ensuring healthier crops.",
+        benefit2Title: "100% Mexican",
+        benefit2Desc: "Developed by INIFAP in Chiapas, it's a proudly Mexican variety.",
+        benefit3Title: "High Quality",
+        benefit3Desc: "Exceptional cup profile with notes of caramel and chocolate.",
+        benefit4Title: "High Yield",
+        benefit4Desc: "Produces between 32-45 quintals per hectare at altitudes of 800-1400 meters above sea level.",
         // Gallery
         galleryTitle: "Gallery",
         // Contact
@@ -82,7 +82,7 @@ const translations = {
         footerTagline: "Mexican high-altitude coffee, passionately grown in the mountains of Chiapas.",
         contactTitleFooter: "Contact",
         followTitle: "Follow Us",
-        copyright: "© 2025 Monte Dorado. All rights reserved.",
+        copyright: "© 2025 Oro Azteca. All rights reserved.",
         // Messages
         formSuccess: "Thank you for your message! We'll get back to you soon.",
         formError: "Please fill in all required fields."
@@ -95,24 +95,24 @@ const translations = {
         navGallery: "Галерея",
         navContact: "Контакты",
         // Hero
-        heroTitle: "Monte Dorado",
+        heroTitle: "Oro Azteca",
         heroSubtitle: "Мексиканский высокогорный кофе. Органический. Аутентичный.",
         heroCta: "Откройте для себя наш кофе",
         // About
         aboutTitle: "Наше происхождение",
-        aboutSubtitle: "Выращено в высокогорье Чьяпаса",
-        aboutText1: "В горах Чьяпаса, на высоте 1400 метров над уровнем моря, рождается Monte Dorado. Наш кофе выращивается со страстью и уважением к земле, следуя органическим практикам, которые сохраняют местную экосистему.",
-        aboutText2: "Каждое зерно отбирается вручную, что гарантирует высочайшее качество и исключительный вкус, отражающий богатство нашей земли.",
+        aboutSubtitle: "100% Мексиканский сорт",
+        aboutText1: "Созданный в 1996 году INIFAP в Чьяпасе, Oro Azteca — это уникальный сорт кофе, полученный в результате скрещивания Гибрида Тимора 832/1 с Катуррой. Созданный в ответ на проблемы с кофейной ржавчиной, этот сорт сочетает в себе лучшие кофейные гены с богатством мексиканских земель.",
+        aboutText2: "Выращиваемый на высоте от 800 до 1400 метров над уровнем моря в горах Чьяпаса, каждый кофейный зёрнышко Oro Azteca отбирается вручную, что гарантирует высочайшее качество и исключительный вкусовой профиль с оттенками карамели и шоколада, которые порадуют ваш вкус.",
         // Benefits
         benefitsTitle: "Эксклюзивные преимущества",
-        benefit1Title: "100% Органик",
-        benefit1Desc: "Выращено без вредных пестицидов и химикатов.",
-        benefit2Title: "Высокогорье",
-        benefit2Desc: "Выращено на высоте 1400 метров для исключительного вкуса.",
-        benefit3Title: "Справедливая торговля",
-        benefit3Desc: "Поддержка местных производителей.",
-        benefit4Title: "Традиции",
-        benefit4Desc: "Древние техники выращивания и обжарки.",
+        benefit1Title: "Устойчив к ржавчине",
+        benefit1Desc: "Сорт, разработанный для устойчивости к кофейной ржавчине, что обеспечивает более здоровые посевы.",
+        benefit2Title: "100% Мексиканский",
+        benefit2Desc: "Разработан INIFAP в Чьяпасе, это гордо мексиканский сорт.",
+        benefit3Title: "Высокое качество",
+        benefit3Desc: "Исключительный вкусовой профиль с нотами карамели и шоколада.",
+        benefit4Title: "Высокая урожайность",
+        benefit4Desc: "Производит от 32 до 45 квинталов с гектара на высотах от 800 до 1400 метров над уровнем моря.",
         // Gallery
         galleryTitle: "Галерея",
         // Contact
@@ -126,7 +126,7 @@ const translations = {
         footerTagline: "Мексиканский высокогорный кофе, страстно выращенный в горах Чьяпаса.",
         contactTitleFooter: "Контакты",
         followTitle: "Подпишитесь на нас",
-        copyright: "© 2025 Monte Dorado. Все права защищены.",
+        copyright: "© 2025 Oro Azteca. Все права защищены.",
         // Messages
         formSuccess: "Спасибо за ваше сообщение! Мы свяжемся с вами в ближайшее время.",
         formError: "Пожалуйста, заполните все обязательные поля."
