@@ -43,10 +43,50 @@
     overflow: hidden;
     border-radius: 0.5rem;
     transition: transform 0.3s ease;
+    position: relative;
+    height: 18rem;
+    margin-bottom: 1.5rem;
 }
 
 .gallery-item:hover {
     transform: translateY(-5px);
+}
+
+/* Gallery section specific styles */
+.gallery-section {
+    min-height: auto;
+    padding-bottom: 5rem;
+}
+
+/* Ensure all gallery images are visible */
+.gallery-item img {
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+    transition: transform 0.7s ease;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.1);
+}
+
+/* Gallery grid layout */
+.gallery-grid {
+    display: grid;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+    .gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .gallery-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
 }
 
 /* Smooth scrolling */
@@ -56,11 +96,18 @@ html {
 
 /* Custom button styles */
 .btn-primary {
-    @apply bg-dorado text-white font-bold py-3 px-8 rounded-full transition-all duration-300;
+    background-color: var(--color-dorado);
+    color: white;
+    font-weight: bold;
+    padding: 0.75rem 2rem;
+    border-radius: 9999px;
+    transition: all 0.3s ease;
 }
 
 .btn-primary:hover {
-    @apply bg-opacity-90 transform -translate-y-1 shadow-lg;
+    background-color: rgba(212, 175, 55, 0.9);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
 }
 
 /* Responsive adjustments */

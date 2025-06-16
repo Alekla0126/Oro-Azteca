@@ -51,8 +51,6 @@ const translations = {
         caturraVariety: "Caturra", 
         mundoNovoVariety: "Mundo Novo",
         maragogipeVariety: "Maragogipe",
-        peaberryTitle: "Caracolillo (Peaberry)",
-        peaberryDesc: "Se encuentra en ~5% de las cerezas. El grano redondo se tuesta más uniformemente, posee un sabor más vibrante, acidez y cuerpo. Se selecciona a mano, usado para series limitadas.",
         
         // Roasting Profiles
         roastingTitle: "Perfiles de Tueste",
@@ -100,6 +98,20 @@ const translations = {
         contactTitleFooter: "Contacto",
         followTitle: "Síguenos",
         copyright: "© 2025 Oro Azteca. Todos los derechos reservados.",
+        
+        // Gallery Captions
+        galleryCaption1: "Tradición Familiar",
+        gallerySubcaption1: "5 generaciones cafeteras",
+        galleryCaption2: "Volcán Tacaná",
+        gallerySubcaption2: "Nuestro hogar en Chiapas",
+        galleryCaption3: "Plantación Orgánica",
+        gallerySubcaption3: "Soconusco, Chiapas",
+        galleryCaption4: "Cosecha Artesanal",
+        gallerySubcaption4: "Tradición familiar",
+        galleryCaption5: "Secado Natural",
+        gallerySubcaption5: "Proceso tradicional",
+        galleryCaption6: "Café de Chiapas",
+        gallerySubcaption6: "Oro Azteca",
         
         // Messages
         formSuccess: "¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto.",
@@ -157,8 +169,6 @@ const translations = {
         caturraVariety: "Caturra", 
         mundoNovoVariety: "Mundo Novo",
         maragogipeVariety: "Maragogipe",
-        peaberryTitle: "Peaberry (Caracolillo)",
-        peaberryDesc: "Found in ~5% of cherries. The round bean roasts more evenly, has brighter flavor, acidity and body. Hand-sorted, used for limited series.",
         
         // Roasting Profiles
         roastingTitle: "Roasting Profiles",
@@ -206,6 +216,20 @@ const translations = {
         contactTitleFooter: "Contact",
         followTitle: "Follow Us",
         copyright: "© 2025 Oro Azteca. All rights reserved.",
+        
+        // Gallery Captions
+        galleryCaption1: "Family Tradition",
+        gallerySubcaption1: "5 coffee generations",
+        galleryCaption2: "Tacaná Volcano",
+        gallerySubcaption2: "Our home in Chiapas",
+        galleryCaption3: "Organic Plantation",
+        gallerySubcaption3: "Soconusco, Chiapas",
+        galleryCaption4: "Artisanal Harvest",
+        gallerySubcaption4: "Family tradition",
+        galleryCaption5: "Natural Drying",
+        gallerySubcaption5: "Traditional process",
+        galleryCaption6: "Chiapas Coffee",
+        gallerySubcaption6: "Oro Azteca",
         
         // Messages
         formSuccess: "Thank you for your message! We'll get back to you soon.",
@@ -263,8 +287,6 @@ const translations = {
         caturraVariety: "Катурра", 
         mundoNovoVariety: "Мундо Ново",
         maragogipeVariety: "Марагогипе",
-        peaberryTitle: "Горошек (Peaberry / Caracolillo)",
-        peaberryDesc: "Встречается в ~5% ягод. Круглое зерно обжаривается равномернее, обладает более ярким вкусом, кислотностью и телом. Сортируется вручную, используется для лимитированной серии.",
         
         // Roasting Profiles
         roastingTitle: "Профили обжарки",
@@ -312,6 +334,20 @@ const translations = {
         contactTitleFooter: "Контакты",
         followTitle: "Следите за нами",
         copyright: "© 2025 Oro Azteca. Все права защищены.",
+        
+        // Gallery Captions
+        galleryCaption1: "Семейная традиция",
+        gallerySubcaption1: "5 поколений кофейных фермеров",
+        galleryCaption2: "Вулкан Такана",
+        gallerySubcaption2: "Наш дом в Чьяпасе",
+        galleryCaption3: "Органическая плантация",
+        gallerySubcaption3: "Соконуско, Чьяпас",
+        galleryCaption4: "Ремесленный сбор",
+        gallerySubcaption4: "Семейная традиция",
+        galleryCaption5: "Естественная сушка",
+        gallerySubcaption5: "Традиционный процесс",
+        galleryCaption6: "Кофе из Чьяпаса",
+        gallerySubcaption6: "Oro Azteca",
         
         // Messages
         formSuccess: "Спасибо за ваше сообщение! Мы свяжемся с вами в ближайшее время.",
